@@ -1,0 +1,42 @@
+2024-08-27T16:13:09.908Z [INFO]: Request allowed: ::1 for /users
+2024-08-27T16:13:09.910Z [INFO]: Success: ::1 accessed /users
+2024-08-27T16:13:13.524Z [INFO]: Request allowed: ::1 for /users
+2024-08-27T16:13:13.525Z [INFO]: Success: ::1 accessed /users
+2024-08-27T16:13:14.542Z [INFO]: Request allowed: ::1 for /users
+2024-08-27T16:13:14.543Z [INFO]: Success: ::1 accessed /users
+2024-08-27T16:13:15.948Z [WARN]: Rate limit exceeded: Task queued with ID ab5343cd-540c-47bd-8fcc-141381e8129f
+2024-08-27T16:13:16.285Z [WARN]: Rate limit exceeded: Task queued with ID 2a473a93-85c8-4cd1-bc3a-8546ac96b4be
+2024-08-27T16:13:20.376Z [WARN]: Rate limit exceeded: Task queued with ID eb24a93b-3c77-41f2-bdb2-2a465cfcdb0a
+2024-08-27T16:13:21.412Z [WARN]: Rate limit exceeded: Task queued with ID 07955210-7df2-463e-b1c1-b6250e6247a4
+2024-08-27T16:13:22.516Z [WARN]: Rate limit exceeded: Task queued with ID ed469519-8ea6-452e-8cd8-061e90f93ada
+2024-08-27T16:16:09.180Z [INFO]: Request allowed: ::1 for /users
+2024-08-27T16:16:09.181Z [INFO]: Success: ::1 accessed /users
+2024-08-27T16:16:29.235Z [INFO]: Request allowed: ::1 for /users
+2024-08-27T16:16:29.235Z [INFO]: Success: ::1 accessed /users
+2024-08-27T16:16:29.567Z [INFO]: Request allowed: ::1 for /users
+2024-08-27T16:16:29.568Z [INFO]: Success: ::1 accessed /users
+2024-08-27T16:36:18.183Z [REQUEST ALLOWED: ::1 FOR /API/V1/TASK]: undefined
+2024-08-27T16:36:18.183Z [123-TASK COMPLETED AT-1724776578183]: undefined
+2024-08-27T16:36:18.190Z [SUCCESS: ::1 ACCESSED /API/V1/TASK]: undefined
+2024-08-27T16:36:19.726Z [REQUEST ALLOWED: ::1 FOR /API/V1/TASK]: undefined
+2024-08-27T16:36:19.726Z [123-TASK COMPLETED AT-1724776579726]: undefined
+2024-08-27T16:36:19.727Z [SUCCESS: ::1 ACCESSED /API/V1/TASK]: undefined
+2024-08-27T16:36:28.498Z [REQUEST ALLOWED: ::1 FOR /API/V1/TASK]: undefined
+2024-08-27T16:36:28.498Z [123-TASK COMPLETED AT-1724776588498]: undefined
+2024-08-27T16:36:28.499Z [SUCCESS: ::1 ACCESSED /API/V1/TASK]: undefined
+2024-08-27T16:36:57.156Z [RATE LIMIT EXCEEDED: TASK QUEUED WITH ID 2B2D6F1B-020F-4007-AE32-6C89842870E3]: undefined
+2024-08-27T16:37:06.796Z [RATE LIMIT EXCEEDED: TASK QUEUED WITH ID 8D15AF03-12D4-4E6C-AD3D-65735BD9F748]: undefined
+2024-08-27T16:37:57.989Z [REQUEST ALLOWED: ::1 FOR /API/V1/TASK]: undefined
+2024-08-27T16:37:57.989Z [123-TASK COMPLETED AT-1724776677989]: undefined
+2024-08-27T16:37:57.990Z [SUCCESS: ::1 ACCESSED /API/V1/TASK]: undefined
+2024-08-27T16:49:54.357Z [INFO]: Request allowed: ::1 for /api/v1/task
+2024-08-27T16:49:54.358Z [INFO]: 123-task completed at-1724777394358
+2024-08-27T16:49:54.370Z [INFO]: Success: ::1 accessed /api/v1/task
+2024-08-27T16:49:55.543Z [INFO]: Request allowed: ::1 for /api/v1/task
+2024-08-27T16:49:55.544Z [INFO]: 123-task completed at-1724777395544
+2024-08-27T16:49:55.544Z [INFO]: Success: ::1 accessed /api/v1/task
+2024-08-27T16:50:43.782Z [INFO]: Request allowed: ::1 for /api/v1/task
+2024-08-27T16:50:43.782Z [INFO]: 123-task completed at-1724777443782
+2024-08-27T16:50:43.788Z [INFO]: Success: ::1 accessed /api/v1/task
+2024-08-27T16:50:44.840Z [WARN]: Rate limit exceeded: Task queued with ID 61427208-26d5-4822-8c32-54311782367b
+2024-08-27T16:50:46.128Z [WARN]: Rate limit exceeded: Task queued with ID a613b252-3e7e-4a3d-9bbf-acba3da89ae2
